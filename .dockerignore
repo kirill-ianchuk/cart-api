@@ -4,6 +4,6 @@ dist
 # Folder created by npm install command
 node_modules
 
-# Folder related to AWS Elastic Beanstalk
+# Folders related to AWS Elastic Beanstalk
 .elasticbeanstalk
 .ebextensions
