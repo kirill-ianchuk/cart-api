@@ -1,0 +1,9 @@
+# Folder created during the build process
+dist
+
+# Folder created by npm install command
+node_modules
+
+# Folders related to AWS Elastic Beanstalk
+.elasticbeanstalk
+.ebextensions
